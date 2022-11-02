@@ -4,15 +4,15 @@
 ```sh
 $ python3 -m venv venv
 ```
+## Activate your env
+```sh
+$ source venv/bin/activate
+```
 
 ## Add the venv path as Kernel
 ```sh
 $ pip3 install --user ipykernel
 $ python -m ipykernel install --user --name=venv
-```
-## Activate your env
-```sh
-$ source venv/bin/activate
 ```
 ## Install python libraries
 ```sh
