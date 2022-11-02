@@ -12,7 +12,7 @@ $ source venv/bin/activate
 ## Add the venv path as Kernel
 ```sh
 $ pip3 install --user ipykernel
-$ python -m ipykernel install --user --name=venv
+$ python3 -m ipykernel install --user --name=venv
 ```
 ## Install python libraries
 ```sh
