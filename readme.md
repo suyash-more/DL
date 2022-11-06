@@ -16,7 +16,7 @@ $ python3 -m ipykernel install --user --name=venv
 ```
 ## Install python libraries
 ```sh
-$ pip3 install keras tensorflow scikit-learn pandas numpy
+$ pip3 install keras tensorflow scikit-learn pandas numpy Theano
 $ pip3 install torch-tensorrt -f https://github.com/pytorch/TensorRT/releases
 ```
 
